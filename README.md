@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Artificial intelligence ,machine learning and DSA 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Artificial intelligence  
 - 📫 How to reach me https://www.linkedin.com/feed/
 
 
